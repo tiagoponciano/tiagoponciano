@@ -1,4 +1,5 @@
 # Tiago Ponciano 
+- aka TIP 😀
 - 📊 Data Intern at [NEO Empresarial](https://neo.certi.org.br)
 - 📚 Industrial Engineering student at the [Federal University of Santa Catarina](https://www.ufsc.br)
 
