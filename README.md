@@ -1,4 +1,4 @@
-# Tiago Ponciano 
+# Tiago Ponciano 🇧🇷
 - aka TIP 😀
 - 📊 Data Intern at [NEO Empresarial](https://neo.certi.org.br)
 - 📚 Industrial Engineering student at the [Federal University of Santa Catarina](https://www.ufsc.br)
@@ -26,9 +26,19 @@
       <img alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
       <img alt="Next.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
       <img alt="NestJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
+      <img alt="Django" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
       <img alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
       <img alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
       <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     </td>
   </tr>
 </table>
+
+---
+
+## GitHub Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tiagoponciano/tiagoponciano/output/github-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/tiagoponciano/tiagoponciano/output/github-snake.svg" />
+</picture>
